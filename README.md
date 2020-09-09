@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning
-[[TypeScript](https://img.shields.io/badge/Learning-Typescript-informational)](https://typescript.org)
+[![TypeScript](https://img.shields.io/badge/Learning-Typescript-informational)](https://typescript.org)
 
 
 <!--
