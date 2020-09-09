@@ -1,5 +1,5 @@
 ## ✨PinMilk✨
-저는 평택기계공업고등학교에 재학 중인 조한별이라고 합니다!
+저는 [평택기계공업고등학교](http://ptmt.hs.kr/main.php)에 재학 중인 조한별이라고 합니다!
 
 ### 🌱 I’m currently learning
 [![TypeScript](https://img.shields.io/badge/Typescript-informational)](https://www.typescriptlang.org/)
