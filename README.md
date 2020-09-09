@@ -10,7 +10,7 @@
 ### 😠 I don't like
 [![PHP](https://img.shields.io/badge/PHP-critical)](https://www.php.net/)
 
-### 📫 How to reach me
+### 💬 How to reach me
 [![Discord](https://img.shields.io/badge/Discord-@%ED%95%80%EB%B0%80%ED%81%AC-white?style=social&logo=discord)](https://discord.com/)
 
 
