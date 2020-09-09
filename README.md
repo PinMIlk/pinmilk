@@ -1,11 +1,11 @@
 ## Hi there 👋
 
 ### 🌱 I’m currently learning
-[![TypeScript](https://img.shields.io/badge/Learning-Typescript-informational)](https://www.typescriptlang.org/)
-[![JavaScript](https://img.shields.io/badge/Learning-JavaScript-f0db4f)](https://www.ecma-international.org/ecma-262/)
-[![Python](https://img.shields.io/badge/Learning-Python-blue)](https://www.python.org/)
-[![C](https://img.shields.io/badge/Learning-C-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/Learning-C++-blue)](https://www.cplusplus.com/)
+[![TypeScript](https://img.shields.io/badge/Typescript-informational)](https://www.typescriptlang.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f)](https://www.ecma-international.org/ecma-262/)
+[![Python](https://img.shields.io/badge/Python-blue)](https://www.python.org/)
+[![C](https://img.shields.io/badge/C-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![C++](https://img.shields.io/badge/C++-blue)](https://www.cplusplus.com/)
 
 ### :angry: I don't like
 [![PHP](https://img.shields.io/badge/PHP-critical)](https://www.php.net/)
