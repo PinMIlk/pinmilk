@@ -6,7 +6,7 @@
 [![JavaScript](https://img.shields.io/badge/Learning-JavaScript-f0db4f)](https://www.ecma-international.org/ecma-262/)
 [![Python](https://img.shields.io/badge/Learning-Python-blue)](https://www.python.org/)
 [![C](https://img.shields.io/badge/Learning-C-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![C++](https://img.shields.io/badge/Learning-C++-blue)](https://www.cplusplus.com/))
+[![C++](https://img.shields.io/badge/Learning-C++-blue)](https://www.cplusplus.com/)
 
 
 <!--
