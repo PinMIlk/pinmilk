@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 - 🌱 I’m currently learning
-[![TypeScript](https://img.shields.io/badge/Learning-Typescript-informational)](https://typescript.org)
+
+[![TypeScript](https://img.shields.io/badge/Learning-Typescript-informational)](https://typescript.org/)
+[![JavaScript](https://img.shields.io/badge/Learning-JavaScript-f0db4f)](https://www.ecma-international.org/ecma-262/)
+[![Python](https://img.shields.io/badge/Learning-Python-blue)](https://www.python.org/)
 
 
 <!--
