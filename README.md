@@ -1,5 +1,4 @@
-## ✨PinMilk✨
-저는 [평택기계공업고등학교](http://ptmt.hs.kr/main.php)에 2학년으로 재학 중인 조한별이라고 합니다!
+# ✨PinMilk✨ - 고등학생의 취미
 
 ### 🌱 I’m currently learning
 [![TypeScript](https://img.shields.io/badge/Typescript-informational)](https://www.typescriptlang.org/)
@@ -7,6 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-blue)](https://www.python.org/)
 [![C](https://img.shields.io/badge/C-blue)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![C++](https://img.shields.io/badge/C++-blue)](https://www.cplusplus.com/)
+[![PHP](https://img.shields.io/badge/PHP-critical)](https://www.php.net/)
 
 ### 😠 I don't like
 [![PHP](https://img.shields.io/badge/PHP-critical)](https://www.php.net/)
@@ -15,7 +15,7 @@
 [![Discord](https://img.shields.io/badge/Discord-@%ED%95%80%EB%B0%80%ED%81%AC-white?style=social&logo=discord)](https://discord.com/)
 
 ### 🏢 I want to go to
-저는 [삼성전자](https://www.samsung.com/sec/) 마이스터 특별채용을 위해 준비하고 있습니다!
+저는 [삼성전자](https://www.samsung.com/sec/) 특별채용을 위해 준비하고 있습니다!
 [![Samsung Electronic](https://img.shields.io/badge/Samsung%20Electronics-informational?logo=samsung)](https://www.samsung.com/sec/)
 
 <!--
