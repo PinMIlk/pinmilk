@@ -15,8 +15,7 @@
 [![Discord](https://img.shields.io/badge/Discord-@%ED%95%80%EB%B0%80%ED%81%AC-white?style=social&logo=discord)](https://discord.com/)
 
 ### 🏢 I want to go to
-???: 뭐 개인적으로 집에 가고 싶다던가 하는 그런 소망 없습니까?
-집에 가고 싶네용
+HOME.(???: 호메)
 
 <!--
 **PinMIlk/pinmilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
