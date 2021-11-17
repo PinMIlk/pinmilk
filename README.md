@@ -1,6 +1,6 @@
-# ✨PinMilk✨ - 고등학생의 취미
+# ✨PinMilk✨ - 낭만을 즐기다.
 
-### 🌱 I’m currently learning
+### 🌱 이것들을 배우는 중이에요!
 [![TypeScript](https://img.shields.io/badge/Typescript-informational)](https://www.typescriptlang.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-f0db4f)](https://www.ecma-international.org/ecma-262/)
 [![Python](https://img.shields.io/badge/Python-blue)](https://www.python.org/)
@@ -8,14 +8,18 @@
 [![C++](https://img.shields.io/badge/C++-blue)](https://www.cplusplus.com/)
 [![PHP](https://img.shields.io/badge/PHP-critical)](https://www.php.net/)
 
-### 😠 I don't like
+### 😠 이걸 싫어해요.
 [![PHP](https://img.shields.io/badge/PHP-critical)](https://www.php.net/)
 
-### 💬 How to reach me
+### 💬 이걸로 제게 말을 걸어요.
 [![Discord](https://img.shields.io/badge/Discord-@%ED%95%80%EB%B0%80%ED%81%AC-white?style=social&logo=discord)](https://discord.com/)
 
-### 🏢 I want to go to
-HOME.(???: 호메)
+### 🏢 현재 직업
+낭만있는 백수입니다.
+(2021년 하반기에 삼성전자 DS에 합격해서 2022년 상반기에 입사해요!)
+이제 잘 안 보인답니다! 😂
+[![Samsung Electronic](https://img.shields.io/badge/Samsung%20Electronics-informational?logo=samsung)](https://www.samsung.com/sec/)
+
 
 <!--
 **PinMIlk/pinmilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
