@@ -15,11 +15,8 @@
 [![Discord](https://img.shields.io/badge/Discord-@%ED%95%80%EB%B0%80%ED%81%AC-white?style=social&logo=discord)](https://discord.com/)
 
 ### 🏢 현재 직업
-낭만있는 백수입니다.
-(2021년 하반기에 삼성전자 DS에 합격해서 2022년 상반기에 입사해요!)
+낭만있는 백수입니다.(2021년 하반기에 삼성전자[![Samsung Electronic](https://img.shields.io/badge/Samsung%20Electronics-informational?logo=samsung)](https://www.samsung.com/sec/) DS에 합격해서 2022년 상반기에 입사해요!)<br />
 이제 잘 안 보인답니다! 😂
-[![Samsung Electronic](https://img.shields.io/badge/Samsung%20Electronics-informational?logo=samsung)](https://www.samsung.com/sec/)
-
 
 <!--
 **PinMIlk/pinmilk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
