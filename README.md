@@ -18,7 +18,7 @@
 | 핀밀크#1009 |
 
 ### 🏢 현재 직업
-낭만있는 백수입니다.(2021년 하반기에 삼성전자 DS에 합격해서 2022년 1분기에 입사해요!) <br />
+낭만있는 백수입니다.(2월에 설비기술 직군으로 입사해요) <br />
 [![Samsung Electronic](https://img.shields.io/badge/Samsung%20Electronics-informational?logo=samsung)](https://www.samsung.com/sec/) <br />
 이제 잘 안 보인답니다! 😂
 
